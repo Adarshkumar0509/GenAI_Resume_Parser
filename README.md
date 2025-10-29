@@ -227,5 +227,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <br>
   <i>Empowering recruitment with AI-driven insights</i>
   <br>
-  Made with ❤️ by Bhanu Kumar Dev | Pinnacle Labs Internship Project
+  Made with ❤️ by Adarsh Kumar
 </div>

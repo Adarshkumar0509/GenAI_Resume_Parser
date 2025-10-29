@@ -9,9 +9,6 @@
 
 > AI-powered resume parser using Flask and Groq — Extract structured insights from PDF resumes with a Groq LLM backend.
 
-## 📹 Demo
-
-**[📺 Watch Video Demo on LinkedIn →](https://www.linkedin.com/posts/bhanu-kumar-dev-97b820313_pinnaclelabs-genai-ai-activity-7334604534679302144-WLN8?utm_source=share&utm_medium=member_desktop)**
 
 ## 🚀 Overview
 
@@ -196,17 +193,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Bhanu Kumar Dev**
-- 🎓 3rd Year CSSE @ KIIT University
-- 👨‍💻 Pinnacle Labs Intern | AI/ML Developer
-- 📧 Email: kumarbhanu818@gmail.com
-- 💼 LinkedIn: [bhanu-kumar-dev-97b820313](https://www.linkedin.com/in/bhanu-kumar-dev-97b820313)
-- 🐙 GitHub: [@bhanukumardev](https://github.com/bhanukumardev)
-- 🌐 Portfolio: [bhanukumardev.github.io/bhanu-portfolio](https://bhanukumardev.github.io/bhanu-portfolio/)
+### Adarsh Kumar
 
 ## 🌟 Acknowledgments
 
-- **Pinnacle Labs** - For the internship opportunity
 - **Groq** - For hosted LLM inference used in this fork
 *- **Ollama Team** - (original project) local AI deployment tools — removed in this fork*
 - **Flask Community** - For excellent documentation

@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌟 Acknowledgments
 - **Groq** - For hosted LLM inference used in this fork
 - **Ollama Team** - (original project) local AI deployment tools — removed in this fork
-- **Flask Community** - For excellent documentation
+- **Flask Community** - For their excellent documentation
 
 ## 📈 Future Enhancements
 - [ ] Support for DOCX and other formats
